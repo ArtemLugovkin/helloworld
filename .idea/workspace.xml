@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55fa843f-cdba-4c73-94af-9874e64a8113" name="Changes" comment="начальный комит" />
+    <list default="true" id="55fa843f-cdba-4c73-94af-9874e64a8113" name="Changes" comment="начальный комит">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +50,7 @@
       <updated>1661096272283</updated>
       <workItem from="1661096289055" duration="3052000" />
       <workItem from="1661100544916" duration="149000" />
-      <workItem from="1661101837554" duration="3380000" />
+      <workItem from="1661101837554" duration="3810000" />
     </task>
     <task id="LOCAL-00001" summary="начальный комит">
       <created>1661104974485</created>
@@ -64,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661105466296</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="начальный комит">
+      <created>1661105589836</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661105589836</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
